@@ -6,6 +6,10 @@ Hello this is Swaroop Reddy Gottigundala. I am from hyderabad India. I pursued m
 
 ## Collaboration
 * GitHub: Profile / Repos
+* Git: Create / Clone / Push
+
+## Publishing
+* Heroku
 
 ## Languages Known
 * GitHub Markdown
